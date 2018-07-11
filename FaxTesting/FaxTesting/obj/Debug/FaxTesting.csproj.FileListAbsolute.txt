@@ -1,0 +1,8 @@
+c:\users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\bin\Debug\FaxTesting.exe.config
+c:\users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\bin\Debug\FaxTesting.exe
+c:\users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\bin\Debug\FaxTesting.pdb
+c:\users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\obj\Debug\FaxTesting.csprojResolveAssemblyReference.cache
+c:\users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\obj\Debug\FaxTesting.exe
+c:\users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\obj\Debug\FaxTesting.pdb
+C:\Users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\enochw\documents\visual studio 2015\Projects\FaxTesting\FaxTesting\bin\Debug\Newtonsoft.Json.xml
